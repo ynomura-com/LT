@@ -21,7 +21,9 @@ Reveal.jsで MarkDown記法で記述したプレゼンのテストです。
 
 note:
 
-Note: これはノートのテスト
+Note:
+
+これはノートのテスト
 
 ---
 
