@@ -21,7 +21,9 @@ Reveal.jsで MarkDown記法で記述したプレゼンのテストです。
 
 note:
 
+<aside class="notes">
 Note: これはノートのテスト
+</aside>
 
 ---
 
