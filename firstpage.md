@@ -30,10 +30,7 @@ Reveal.jsで MarkDown記法で記述したプレゼンのテストです。
 ## 右方向３番めのページです。
 とりあえず、ここまで作ってみました。
 
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^{!!2} \leq
-\left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-```
+![img](https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png)
 
 戻ることもできますので、移動を試してみてください。
 
